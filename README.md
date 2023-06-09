@@ -1,2 +1,2 @@
 # blezzoh.github.io
-[test 1](https://github.com/Blezzoh/MySewaneeMessenger)
+[lab 1](https://esavage503.github.io/cit281-lab-1/)
